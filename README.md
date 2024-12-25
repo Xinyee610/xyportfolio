@@ -5,7 +5,7 @@ Hi !! I am **Xin Yee**<br>🔭 I’m currently pursuing a Bachelor of Computer S
 ## E-Portfolio: 
 Feel free to check out my e-portfolio via the link below: https://xinyee610.github.io/
 
-## 🌟 Education Resources Hub 📚:
+## Education Resources Hub 📚:
 ### 🎒 Primary School 📖  
 **School:** SJK(C) Nam Hua  
 **Location:** Tanjung Piandang, Perak  
@@ -25,7 +25,7 @@ Feel free to check out my e-portfolio via the link below: https://xinyee610.gith
 **Location:** Skudai, Johor  
 **Years:** 2023 - 2024  
 
-# 🎓 University Studies 💻  
+### 🎓 University Studies 💻  
 **University:** Universiti Teknologi Malaysia (UTM)  
 **Location:** Skudai, Johor  
 **Years:** 2024 - Present  
