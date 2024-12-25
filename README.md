@@ -1,9 +1,24 @@
 # 💫 About Me:
-Hi !! I am **Xin Yee**<br>🔭 I’m currently pursuing a Bachelor of Computer Science in Data Engineering at UTM<br>💞️ I love indulging in delicious food and swimming to stay active and refreshed during my free time<br>🌱 I’m currently learning C++ programming language, Discrete Structure, Digital Logic and Technology and Information System<br>📫 Reach me at xinyeeteoh0610@gmail.com<br> 
+Hi !! I am **Xin Yee**<br>🔭 I’m currently pursuing a Bachelor of Computer Science in Data Engineering at UTM<br>💞️ve indulging in delicious food and swimming to stay active and refreshed during my free time<br>🌱 I’m currently learning C++ programming language, Discrete Structure, Digital Logic and Technology and Information System<br>📫 Reach me at xinyeeteoh0610@gmail.com<br> 
 
 
 ## E-Portfolio: 
 Feel free to check out my e-portfolio via the link below: https://xinyee610.github.io/
+
+## 🌟 Education Resources Hub 📚:
+## 🎒 Primary School 📖  
+**School:** SJK(C) Nam Hua  
+**Location:** Tanjung Piandang, Perak  
+**Years:** 2012 - 2017  
+
+- **Position:** Chairman of Librarian 📚
+   
+
+- **Features:**
+  - Interactive worksheets 📝  
+  - Educational games 🎮  
+  - Fun experiments 🧪  
+
 
 
 ## 🌐 Socials:
