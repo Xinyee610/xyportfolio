@@ -6,13 +6,13 @@ Hi !! I am **Xin Yee**<br>🔭 I’m currently pursuing a Bachelor of Computer S
 Feel free to check out my e-portfolio via the link below: https://xinyee610.github.io/
 
 ## 🌟 Education Resources Hub 📚:
-# 🎒 Primary School 📖  
+### 🎒 Primary School 📖  
 **School:** SJK(C) Nam Hua  
 **Location:** Tanjung Piandang, Perak  
 **Years:** 2012 - 2017  
 **Position:** Chairman of Librarian 📚
    
-# 🏫 Secondary School 🧠  
+### 🏫 Secondary School 🧠  
 **School:** SMJK Krian  
 **Location:** Parit Buntar, Perak  
 **Years:** 2018 - 2022  
@@ -20,7 +20,7 @@ Feel free to check out my e-portfolio via the link below: https://xinyee610.gith
   - Vice Chairman of **Lembaga Pengawas Pusat Sumber** 📖  
   - Secretary of **Bulan Sabit Merah Malaysia (BSMM)** 🩺
  
-# 🔬 Foundation in Physical Science 🌌  
+### 🔬 Foundation in Physical Science 🌌  
 **Institution:** SPACE UTM  
 **Location:** Skudai, Johor  
 **Years:** 2023 - 2024  
